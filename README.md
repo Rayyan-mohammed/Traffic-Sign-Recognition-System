@@ -25,7 +25,7 @@ A real-time traffic sign detection and classification system built using deep le
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/traffic-sign-recognition.git
+git clone https://github.com/Rayyan-mohammed/traffic-sign-recognition.git
 cd traffic-sign-recognition
 ```
 
